@@ -24,7 +24,7 @@ class SplashActivity : AppCompatActivity() {
             override fun onAnimationStart(animation: Animation?) {}
 
             override fun onAnimationEnd(animation: Animation?) {
-                val intent = Intent(applicationContext,MainActivity::class.java)
+                val intent = Intent(applicationContext,SignupActivity::class.java)
                 startActivity(intent)
             }
 
