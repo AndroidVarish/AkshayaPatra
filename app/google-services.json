@@ -14,7 +14,15 @@
       },
       "oauth_client": [
         {
-          "client_id": "432732230429-aab8vvq56pptl3tnbhlel3ph5u1gvqnf.apps.googleusercontent.com",
+          "client_id": "432732230429-o2a8k87b7ra25o2n1ivtql8j3so0k1kj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.akshayapatra",
+            "certificate_hash": "a1bf74a3db94ab3f3667514bc22ecb0b9191a72e"
+          }
+        },
+        {
+          "client_id": "432732230429-gdmtrjmvtrru6mabu9s1ov4pc5c1re6t.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
