@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "432732230429",
+    "project_id": "akshaya-patra-8bee3",
+    "storage_bucket": "akshaya-patra-8bee3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432732230429:android:f2d2d02c70f582e74087f4",
+        "android_client_info": {
+          "package_name": "com.example.akshayapatra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432732230429-aab8vvq56pptl3tnbhlel3ph5u1gvqnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj29CT9U83v1-84ZRdhdW-ULG4YQHnN5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432732230429-aab8vvq56pptl3tnbhlel3ph5u1gvqnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
