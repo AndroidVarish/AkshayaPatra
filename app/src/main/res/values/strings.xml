@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Akshaya Patra</string>
     <string name="splash_text">Welocme to Akshaya Patra</string>
-    <string name="welcome">Welcome to Akshaya Patra/nDonate!! Help!!</string>
+    <string name="welcome">Welcome to Akshaya Patra\nDonate!! Help!!</string>
 </resources>
